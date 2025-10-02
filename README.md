@@ -1,1 +1,1 @@
-# Gestión Académica Demo
+# Gestión Académica Demo (Acceso con "Entrar")
